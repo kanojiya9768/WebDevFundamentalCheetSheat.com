@@ -1,0 +1,13 @@
+.site-footer{
+    background-color: rgb(8, 8, 8);
+    color: aliceblue;
+    display: block;
+    text-align: center;
+    margin: 0;
+}
+.container{
+    padding: 10px;
+}
+span{
+    font-size: 3vh;
+}
